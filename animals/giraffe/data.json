@@ -1,0 +1,39 @@
+{
+    "name": "Giraffe",
+    "averageWeight": {
+        "males": "800 - 1600 kg",
+        "females": "550 - 1180 kg"
+    },
+    "averageLength": {
+        "males": "4.5 - 6.0 m",
+        "females": "3.5 - 4.5 m"
+    },
+    "tailLength": {
+        "males": "70 - 100 cm",
+        "females": "70 - 100 cm"
+    },
+    "shoulderHeight": {
+        "males": "4.7 - 5.7 m",
+        "females": "4.3 - 5.0 m"
+    },
+    "gestationPeriod": "14 - 15 months",
+    "litterSize": "1 calf",
+    "weaning": "6 - 18 months",
+    "sexualMaturity": {
+        "males": "3 - 4 years",
+        "females": "3 - 4 years"
+    },
+    "longevity": {
+        "wild": "25 years",
+        "captivity": "30 years"
+    },
+    "interestingFacts": [
+        "Giraffes are the tallest land animals on Earth.",
+        "Giraffes have long necks, but they actually have the same number of neck vertebrae as humans.",
+        "Giraffes have a prehensile tongue that can reach up to 45 cm in length.",
+        "Giraffes have distinctive coat patterns that are unique to each individual.",
+        "Giraffes are herbivores and mainly feed on leaves and shoots from trees.",
+        "Giraffes have powerful legs and can run at speeds up to 35 mph (56 km/h).",
+        "Giraffes are social animals and often form loose groups called towers."
+    ]
+}

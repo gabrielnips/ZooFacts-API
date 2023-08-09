@@ -1,0 +1,39 @@
+{
+    "name": "Lion",
+    "averageWeight": {
+        "males": "190 kg",
+        "females": "130 kg"
+    },
+    "averageLength": {
+        "males": "2.45 - 3.07 m",
+        "females": "2.20 – 2.75 m"
+    },
+    "tailLength": {
+        "males": "90 - 105 cm",
+        "females": "70 - 100 cm"
+    },
+    "shoulderHeight": {
+        "males": "1.20 m",
+        "females": "1.07 m"
+    },
+    "gestationPeriod": "100 - 119 days",
+    "litterSize": "1 - 4 cubs",
+    "weaning": "6 - 7 months",
+    "sexualMaturity": {
+        "males": "3 - 4 years",
+        "females": "3 - 4 years"
+    },
+    "longevity": {
+        "wild": "up to 14 years",
+        "captivity": "up to 26 years"
+    },
+    "interestingFacts": [
+        "Lions are the only cats that live in groups.",
+        "A group, or pride, can be up to 30 lions, depending on how much food and water is available.",
+        "A lion's roar can be heard from 5 miles away.",
+        "Lions are excellent swimmers and can swim up to 5 miles.",
+        "Lions can sleep up to 20 hours a day.",
+        "A male lion's mane can indicate his age and status in the pride.",
+        "Lions can run at speeds of up to 50 mph (80 km/h) for short distances."
+    ]
+}

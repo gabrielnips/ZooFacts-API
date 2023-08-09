@@ -1,0 +1,26 @@
+{
+    "name": "Shark",
+    "averageWeight": {
+        "varies by species": "100 g - 20,000 kg"
+    },
+    "averageLength": {
+        "varies by species": "20 cm - 12 m"
+    },
+    "gestationPeriod": "6 - 22 months",
+    "litterSize": "1 - 100 pups",
+    "sexualMaturity": {
+        "varies by species": "1 - 15 years"
+    },
+    "longevity": {
+        "varies by species": "20 - 100 years"
+    },
+    "interestingFacts": [
+        "Sharks are a diverse group of fish with a wide range of sizes and shapes.",
+        "Sharks have cartilaginous skeletons instead of bones, which makes them lightweight and flexible.",
+        "Sharks have multiple rows of teeth, and they continuously lose and replace them throughout their lives.",
+        "Sharks have an incredible sense of smell that allows them to detect prey from miles away.",
+        "Some species of sharks are known to migrate long distances across oceans.",
+        "Sharks play a crucial role in maintaining the health of marine ecosystems as top predators.",
+        "Sharks have a reputation as fierce predators, but many species are not a threat to humans."
+    ]
+}

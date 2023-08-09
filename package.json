@@ -1,0 +1,31 @@
+{
+  "name": "zoofacts-api",
+  "version": "1.0.0",
+  "description": "ZooFacts API generates random animal facts, characteristics, and images, providing an educational and entertaining experience about the animal kingdom.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielnips/ZooFacts-API.git"
+  },
+  "keywords": [
+    "animals",
+    "facts",
+    "education",
+    "API",
+    "Node.js",
+    "Express"
+  ],
+  "author": "gabrielnips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielnips/ZooFacts-API/issues"
+  },
+  "homepage": "https://github.com/gabrielnips/ZooFacts-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}

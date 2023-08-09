@@ -1,0 +1,39 @@
+{
+    "name": "Wolf",
+    "averageWeight": {
+        "males": "30 - 80 kg",
+        "females": "23 - 55 kg"
+    },
+    "averageLength": {
+        "males": "1.4 - 2 m",
+        "females": "1.2 - 1.8 m"
+    },
+    "tailLength": {
+        "males": "30 - 51 cm",
+        "females": "30 - 51 cm"
+    },
+    "shoulderHeight": {
+        "males": "0.7 - 0.85 m",
+        "females": "0.6 - 0.8 m"
+    },
+    "gestationPeriod": "63 days",
+    "litterSize": "2 - 12 pups",
+    "weaning": "5 - 8 weeks",
+    "sexualMaturity": {
+        "males": "2 - 3 years",
+        "females": "2 - 3 years"
+    },
+    "longevity": {
+        "wild": "6 - 8 years",
+        "captivity": "12 - 14 years"
+    },
+    "interestingFacts": [
+        "Wolves are highly social animals that live and hunt in packs.",
+        "Wolves have a strong sense of smell and hearing, which helps them locate prey.",
+        "Wolves have a wide range of vocalizations, including howls, growls, and barks.",
+        "Wolves play a vital role in maintaining the health of ecosystems by controlling prey populations.",
+        "Wolves have a hierarchical pack structure with an alpha pair as the leaders.",
+        "Wolves are excellent runners and can maintain speeds of 40 mph (65 km/h) over short distances.",
+        "Wolves have a complex body language and use facial expressions, body postures, and vocalizations to communicate within their pack."
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Leopard",
+    "averageWeight": {
+        "males": "37 - 90 kg",
+        "females": "28 - 60 kg"
+    },
+    "averageLength": {
+        "males": "1.9 - 2.9 m",
+        "females": "1.5 - 2.3 m"
+    },
+    "tailLength": {
+        "males": "0.6 - 1.1 m",
+        "females": "0.6 - 0.9 m"
+    },
+    "shoulderHeight": {
+        "males": "0.6 - 0.75 m",
+        "females": "0.5 - 0.6 m"
+    },
+    "gestationPeriod": "90 - 105 days",
+    "litterSize": "2 - 3 cubs",
+    "weaning": "3 months",
+    "sexualMaturity": {
+        "males": "3 years",
+        "females": "2 - 3 years"
+    },
+    "longevity": {
+        "wild": "12 - 17 years",
+        "captivity": "21 - 23 years"
+    },
+    "interestingFacts": [
+        "Leopards are known for their distinctive coat of fur covered in rosettes.",
+        "Leopards are excellent climbers and can easily haul their prey up trees.",
+        "Leopards are solitary animals and are known for their elusive nature.",
+        "Leopards have a wide range of habitats, from forests and grasslands to mountains and deserts.",
+        "Leopards are powerful and stealthy hunters, capable of taking down prey larger than themselves.",
+        "Leopards are skilled swimmers and can cross rivers and swim long distances.",
+        "Leopards have adapted well to living near human populations and are sometimes found in urban areas."
+    ]
+}

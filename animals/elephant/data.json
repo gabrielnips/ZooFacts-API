@@ -1,0 +1,39 @@
+{
+    "name": "Elephant",
+    "averageWeight": {
+        "males": "4000 - 6000 kg",
+        "females": "2600 - 3500 kg"
+    },
+    "averageLength": {
+        "males": "6.4 - 7.3 m",
+        "females": "5.7 - 6.8 m"
+    },
+    "tailLength": {
+        "males": "1.2 - 1.5 m",
+        "females": "1.0 - 1.3 m"
+    },
+    "shoulderHeight": {
+        "males": "3.2 - 3.7 m",
+        "females": "2.6 - 3.0 m"
+    },
+    "gestationPeriod": "22 months",
+    "litterSize": "1 calf",
+    "weaning": "2 - 3 years",
+    "sexualMaturity": {
+        "males": "10 - 15 years",
+        "females": "10 - 15 years"
+    },
+    "longevity": {
+        "wild": "60 - 70 years",
+        "captivity": "80 years"
+    },
+    "interestingFacts": [
+        "Elephants have the largest brain of any land animal.",
+        "An elephant's tusks are actually elongated incisor teeth.",
+        "Elephants can communicate with infrasound, which is below the range of human hearing.",
+        "Elephants use their trunks for various tasks, including picking up objects, drinking, and social interactions.",
+        "Elephants are herbivores and can consume large amounts of food each day.",
+        "Female elephants live in close-knit family groups led by the oldest female, while males tend to be more solitary.",
+        "Elephants are considered a keystone species due to their impact on their environment."
+    ]
+}

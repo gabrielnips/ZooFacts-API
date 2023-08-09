@@ -1,0 +1,31 @@
+{
+    "name": "Koala",
+    "averageWeight": {
+        "males": "4 - 8 kg",
+        "females": "4 - 8 kg"
+    },
+    "averageLength": {
+        "males": "60 - 85 cm",
+        "females": "60 - 85 cm"
+    },
+    "gestationPeriod": "35 days",
+    "litterSize": "1 joey",
+    "weaning": "6 - 12 months",
+    "sexualMaturity": {
+        "males": "3 years",
+        "females": "2 years"
+    },
+    "longevity": {
+        "wild": "10 - 15 years",
+        "captivity": "17 - 18 years"
+    },
+    "interestingFacts": [
+        "Koalas are marsupials native to Australia and are known for their unique appearance.",
+        "Koalas primarily feed on eucalyptus leaves, which make up their entire diet.",
+        "Koalas have a low metabolic rate and spend most of their time sleeping, up to 20 hours a day.",
+        "Koalas have sharp claws and are excellent climbers.",
+        "Koalas communicate through vocalizations and scent marking.",
+        "Koalas have a special organ called a cecum that helps them digest eucalyptus leaves.",
+        "Koalas are often referred to as koala bears but they are not actually bears."
+    ]
+}

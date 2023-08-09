@@ -1,0 +1,31 @@
+{
+    "name": "Penguin",
+    "averageWeight": {
+        "males": "2.1 - 4.5 kg",
+        "females": "1.9 - 4.1 kg"
+    },
+    "averageLength": {
+        "males": "60 - 70 cm",
+        "females": "50 - 60 cm"
+    },
+    "gestationPeriod": "30 - 70 days",
+    "litterSize": "1 - 2 chicks",
+    "weaning": "2 - 3 weeks",
+    "sexualMaturity": {
+        "males": "3 - 5 years",
+        "females": "3 - 5 years"
+    },
+    "longevity": {
+        "wild": "15 - 20 years",
+        "captivity": "20 - 30 years"
+    },
+    "interestingFacts": [
+        "Penguins are flightless birds that are well adapted to life in the water.",
+        "Penguins have a layer of insulating feathers and a thick layer of blubber to keep them warm.",
+        "Penguins have a unique way of walking called tobogganing, where they slide on their bellies across the ice.",
+        "Penguins have excellent vision both in and out of the water.",
+        "Penguins are social animals and often live in large colonies.",
+        "Male and female penguins take turns incubating the eggs and caring for the chicks.",
+        "Penguins have a unique and distinct call that helps them recognize each other in a crowded colony."
+    ]
+}
