@@ -4,7 +4,7 @@ Welcome to the ZooFacts API repository! This API provides interesting facts and 
 
 ## Documentation
 
-For detailed instructions on how to use the ZooFacts API and to access the comprehensive documentation, please visit our [official documentation site](https://zoofacts.gabrielnips.cloud). The documentation covers endpoints, request formats, and responses.
+For detailed instructions on how to use the ZooFacts API and to access the comprehensive documentation, please visit our [official documentation site](https://zoofactsapi.gabrielnips.cloud/). The documentation covers endpoints, request formats, and responses.
 
 ## Getting Started
 
