@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ZooFacts API](README.md)
+  * [GITHUB](https://github.com/gabrielnips/ZooFacts-API)
 
 ## Reference
 

@@ -12,12 +12,12 @@ This guide will help you understand how to use the `/v1/animals/animal/random` e
 
 Here's an example request:
 
-{% swagger method="get" path="/{animalName}" baseUrl="https://api.zoofacts.com/v1/animals/animal" summary="Random Animal Request" expanded="false" fullWidth="false" %}
+{% swagger method="get" path="/{animalName}" baseUrl="https://api.gabrielnips.cloud/v1/animals/animal" summary="Random Animal Request" expanded="false" fullWidth="false" %}
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-response status="200: OK" description="https://api.zoofacts.com/v1/animals/random" %}
+{% swagger-response status="200: OK" description="https://api.gabrielnips.cloud/v1/animals/random" %}
 ```json
 {
     "name": "Leopard",
@@ -51,7 +51,7 @@ Here's an example request:
 ```
 {% endswagger-response %}
 
-{% swagger-response status="404: Not Found" description="https://api.zoofacts.com/v1/animals/rando" %}
+{% swagger-response status="404: Not Found" description="https://api.gabrielnips.cloud/v1/animals/rando" %}
 ```json
 {
     "error": "Animal not found"

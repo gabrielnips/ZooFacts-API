@@ -16,7 +16,7 @@ To get information about a specific animal, you'll need to provide its name as a
 
 Here's an example request to get information about a lion:
 
-{% swagger method="get" path="/{animalName}" baseUrl="https://api.zoofacts.com/v1/animals/animal" summary="Specific Animal Request" expanded="false" fullWidth="false" %}
+{% swagger method="get" path="/{animalName}" baseUrl="https://api.gabrielnips.cloud/v1/animals/animal" summary="Specific Animal Request" expanded="false" fullWidth="false" %}
 {% swagger-description %}
 
 {% endswagger-description %}
@@ -25,7 +25,7 @@ Here's an example request to get information about a lion:
 Example: lion
 {% endswagger-parameter %}
 
-{% swagger-response status="200: OK" description="https://api.zoofacts.com/v1/animals/lion" %}
+{% swagger-response status="200: OK" description="https://api.gabrielnips.cloud/v1/animals/lion" %}
 ```json
 {
     "name": "Lion",
@@ -59,7 +59,7 @@ Example: lion
 ```
 {% endswagger-response %}
 
-{% swagger-response status="404: Not Found" description="https://api.zoofacts.com/v1/animals/lio" %}
+{% swagger-response status="404: Not Found" description="https://api.gabrielnips.cloud/v1/animals/lio" %}
 ```json
 {
     "error": "Animal not found"
